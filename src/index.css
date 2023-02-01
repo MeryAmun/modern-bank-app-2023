@@ -122,6 +122,11 @@
 
 .feedback-card:hover {
   background: var(--black-gradient);
+
+}
+.client-hover:hover {
+  background: var(--black-gradient);
+  padding: 1rem;
 }
 
 .blue__gradient {
